@@ -6,9 +6,14 @@
 
 ### AC 레이팅
 
+<!-- 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limitkr)](https://solved.ac/limitkr)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=limitkr&&theme=dark)
+-->
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=limitkr)
+
 
 ### 링크
 - [Solved.ac](https://solved.ac/limitkr)
