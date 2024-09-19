@@ -1,5 +1,6 @@
 ## Hello World!
-**서울대학교 음악대학 작곡과**
+**서울대학교 음악대학 작곡과** <br />
+~~컴공 부전공~~
 
 ##
 <!-- ///////////////////////////////////// -->
@@ -13,6 +14,14 @@
 -->
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=limitkr)
+
+
+### 사용 언어
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,ts,py)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vim,clion,webstorm,pycharm)](https://skillicons.dev)
+
 
 
 ### 링크
