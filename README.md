@@ -17,7 +17,7 @@
 
 
 ### 사용 언어
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,ts,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,ts,py,java)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vim,clion,webstorm,pycharm)](https://skillicons.dev)
